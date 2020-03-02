@@ -1,6 +1,6 @@
-# conversor
+# currency converter
 
-A new Flutter project.
+![conversor](https://user-images.githubusercontent.com/54786785/75638945-25661a00-5c0d-11ea-91a5-8ae101eb6fae.jpeg)
 
 ## Getting Started
 
